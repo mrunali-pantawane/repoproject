@@ -6,7 +6,7 @@
 - i am learning devops
 - and it is fun while playing with repos
 1. mrunali
-2. jaya
+2. sunita
 3. pooja
    
 ...
